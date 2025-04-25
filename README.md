@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Matthew! <h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+ - [Administer Active Directory Domain Services](https://github.com/matthewlpearson/Administer Active Directory Domain Services-Practice)
+ 
+</h2>🎓 Certifications</h2>
+
+- [Google IT Support Professional](https://www.credly.com/badges/2594bf8e-296b-4b5d-ada6-c5e4e3d5d3b6/public_url)
 
 <!--
 **matthewlpearson/matthewlpearson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
