@@ -1,5 +1,5 @@
 <h1>Hi, I'm Matthew! <h1>
-
+<a href="https://linkedin.com/in/matthew-pearson-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h2>👨‍💻 IT Projects:</h2>
 
  - [Administer Active Directory Domain Services](https://github.com/matthewlpearson/Administer Active Directory Domain Services-Practice)
