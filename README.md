@@ -1,24 +1,11 @@
 <h1>Hi, I'm Matthew! <h1>
 <a href="https://linkedin.com/in/matthew-pearson-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<h2>👨‍💻 IT Projects:</h2>
 
- - [Administer Active Directory Domain Services](https://github.com/matthewlpearson/Administer Active Directory Domain Services-Practice)
+[Brief Introduction]
  
-</h2>🎓 Certifications</h2>
+Aspiring IT professional eager to learn, grow, and make an impact in tech.
 
-- [Google IT Support Professional](https://www.credly.com/badges/2594bf8e-296b-4b5d-ada6-c5e4e3d5d3b6/public_url)
+## Objective
+[Provide Objective]
 
-<!--
-**matthewlpearson/matthewlpearson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in studying IT has fueled my passion for technology and continuous learning. I'm eager to grow my skills, tackle new challenges, and make a meaningful impact in tech.  I’m actively exploring opportunities to apply my knowledge and advance in the industry.
