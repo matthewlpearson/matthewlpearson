@@ -47,3 +47,33 @@ My journey in studying IT has fueled my passion for technology and continuous le
 
 ## Certifications
 
+<div>
+
+
+
+
+
+
+
+
+## Projects
+- Administer Active Directory Domain Services
+- Secure Access with Azure Active Directory
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
