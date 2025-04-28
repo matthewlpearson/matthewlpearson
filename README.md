@@ -48,6 +48,10 @@ My journey in studying IT has fueled my passion for technology and continuous le
 ## Certifications
 
 <div>
+<a href="https://www.credly.com/badges/2594bf8e-296b-4b5d-ada6-c5e4e3d5d3b6/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
 
 
 
