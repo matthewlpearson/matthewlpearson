@@ -16,7 +16,7 @@ My journey in studying IT has fueled my passion for technology and continuous le
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Windows Server and Actve Directory Management  |<a href="https://github.com/matthewlpearson/Active-Directory-Administration-Lab-/tree/main">Administer Active Directory Domain Services</a>|   
-|                                               |<a href="https://google.com">Detection Lab</a>|                                                                                    
+|                                               |<a href="https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/tree/main">Detection Lab</a>|                                                                                    
                                              
 
 
