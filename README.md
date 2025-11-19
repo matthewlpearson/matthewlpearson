@@ -63,7 +63,7 @@ My journey in studying IT has fueled my passion for technology and continuous le
 ## Projects
 - <a href="https://github.com/matthewlpearson/Active-Directory-Administration-Lab-/tree/main">Administer Active Directory Domain Services</a>
 - Secure Access with Azure Active Directory
-- <a href="https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/tree/main">
+- <a href="https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/tree/main">System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-</a>
 
 
 
