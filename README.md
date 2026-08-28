@@ -15,9 +15,8 @@ My journey in studying IT has fueled my passion for technology and continuous le
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Windows Server and Actve Directory Management  |<a href="https://github.com/matthewlpearson/Active-Directory-Administration-Lab-/tree/main">Administer Active Directory Domain Services</a>|   
-|Linux System Monitoring and Log Management     |<a href="https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/tree/main">System Monitoring & Log Analysis Tool in Kali Linux (VMware)</a>|                                                                                    
-                                             
+|Active Directory Administration                |<a href="https://github.com/matthewlpearson/active-directory-home-lab">active-directory-home-lab</a>|   
+                     
 
 
 
@@ -61,9 +60,7 @@ My journey in studying IT has fueled my passion for technology and continuous le
 
 
 ## Projects
-- <a href="https://github.com/matthewlpearson/Active-Directory-Administration-Lab-/tree/main">Administer Active Directory Domain Services</a>
-- Secure Access with Azure Active Directory
-- <a href="https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/tree/main">System Monitoring & Log Analysis Tool in Kali Linux (VMware)</a>
+- <a href="https://github.com/matthewlpearson/active-directory-home-lab">active-directory-home-lab</a>
 
 
 
