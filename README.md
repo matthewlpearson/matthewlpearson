@@ -3,12 +3,12 @@
 
 [Brief Introduction]
  
-Aspiring IT professional eager to learn, grow, and make an impact in tech.
+An aspiring IT professional and troubleshooting enthusiast dedicated to delivering exceptional technical support, with the ultimate goal of becoming a Cloud Support Engineer.
 
 ## Objective
 [Provide Objective]
 
-My journey in studying IT has fueled my passion for technology and continuous learning. I'm eager to grow my skills, tackle new challenges, and make a meaningful impact in tech.  I’m actively exploring opportunities to apply my knowledge and advance in the industry.
+My journey in IT has built a strong foundation in system troubleshooting, network fundamentals, and end-user support. I am actively looking for **Help Desk / Tech Support** opportunities where I can solve real-world problems, help users navigate technical hurdles, and apply my expanding knowledge as I work toward my goal of becoming a Cloud Support Engineer. I'm eager to learn, grow, and make a meaningful impact in tech.
 
 ## Skills
 
