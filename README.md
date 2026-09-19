@@ -61,7 +61,7 @@ My journey in studying IT has fueled my passion for technology and continuous le
 
 ## Projects
 - <a href="https://github.com/matthewlpearson/active-directory-home-lab">active-directory-home-lab</a>
-
+- <a href="https://github.com/matthewlpearson/tier1-network-troubleshooting-lab"> tier1-network-troubleshooting-lab</a>
 
 
 
