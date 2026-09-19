@@ -16,7 +16,7 @@ My journey in studying IT has fueled my passion for technology and continuous le
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Active Directory Administration                |<a href="https://github.com/matthewlpearson/active-directory-home-lab">active-directory-home-lab</a>|   
-                     
+|Network Troubleshooting & AD Administration    |<a href="https://github.com/matthewlpearson/tier1-network-troubleshooting-lab"> tier1-network-troubleshooting-lab</a>|                    
 
 
 
