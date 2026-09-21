@@ -1,7 +1,7 @@
 <h1>Hi, I'm Matthew! <h1>
 <a href="https://linkedin.com/in/matthew-pearson-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+
  
 An aspiring IT professional and troubleshooting enthusiast dedicated to delivering exceptional technical support, with the ultimate goal of becoming a Cloud Support Engineer.
 
